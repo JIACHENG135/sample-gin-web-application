@@ -1,1 +1,1 @@
-web:sample-gin-web-app
+web: bin/sample-gin-web-app
