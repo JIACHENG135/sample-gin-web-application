@@ -1,1 +1,1 @@
-web : sample-gin-web-app
+web:sample-gin-web-app
