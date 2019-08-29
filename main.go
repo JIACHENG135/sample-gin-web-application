@@ -9,6 +9,7 @@ import (
 )
 
 func main() {
+	gin.SetMode(gin.DebugMode)
 	db, err := db.GetDBConnection()
 
 	if err != nil {
