@@ -1,0 +1,1 @@
+web : sample-gin-web-app
